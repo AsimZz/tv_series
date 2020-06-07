@@ -1,6 +1,6 @@
 # tv_series
 
-A new Flutter project.
+A new Flutter project the project is still under developement
 
 ## Getting Started
 
